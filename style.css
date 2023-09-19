@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: rgb(23, 79, 246);
+  color: white;
+  padding: 32px;
+}
+#page-title {
+  font-family: monospace;
+}
+main {
+  padding: 0 1rem;
+}
+p {
+  font-family: sans-serif;
+}
+.vip {
+  font-style: italic;
+  color: rgb(0, 194, 208);
+  font-size: 1.5rem;
+}
+footer {
+  background-color: #1aa0ff;
+  color: white;
+  padding: 16px;
+}
